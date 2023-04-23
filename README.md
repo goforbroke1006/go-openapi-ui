@@ -1,6 +1,6 @@
 # go-openapi-ui
 
-Serve [SwaggerUI](https://swagger.io/tools/swagger-ui/) from application on Golang.
+Serve openapi specification file in [SwaggerUI](https://swagger.io/tools/swagger-ui/) from application on Golang.
 
 ### Installation
 
